@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T13:56:48.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9QbOsqRjlrMplTExEtS9" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T13:57:10.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vG9-cM43eRHIxPfRIr2r" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="72FgrOuQ5Zt7AJluy6WT">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="SVLsFriAqke8viGs95R4-1" value="Обращение&lt;br&gt;IncomeCall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="75" width="140" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="SVLsFriAqke8viGs95R4-4" value="Схема создания подвода СТО (webservices AddPodvodka)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="239" y="10" width="350" height="30" as="geometry" />
+        <mxCell id="SVLsFriAqke8viGs95R4-4" value="Схема создания подвода (webservices AddPodvodka)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="10" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SVLsFriAqke8viGs95R4-8" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="150" height="60" as="geometry" />
